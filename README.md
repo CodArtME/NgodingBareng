@@ -1,2 +1,2 @@
-# Ngoding-Bareng>NgoBar<
-Seputar Template Website, Blogger, Form, dll.
+# Ngoding Bareng (NGOBAR)
+Template Website, Blogger, Form, etc.
